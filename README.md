@@ -1,3 +1,1 @@
-# hello-word
-.txt
-操蛋
+master.txt
